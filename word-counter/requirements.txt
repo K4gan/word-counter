@@ -1,0 +1,7 @@
+# Kelime Sayacı ve Frekans Analizi - Gereksinimler
+# Bu proje herhangi bir harici kütüphane gerektirmez
+# Python 3.6+ standart kütüphaneleri kullanılır:
+# - re (regex işlemleri)
+# - sys (sistem işlemleri)
+# - collections (Counter sınıfı)
+# - pathlib (dosya yolu işlemleri)
